@@ -1,2 +1,2 @@
 # Tensorflow_example
- study repository
+ study tensorflow
